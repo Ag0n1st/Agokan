@@ -5,8 +5,10 @@ Figma design file --https://www.youtube.com/redirect?event=video_description&red
 Real Favicon Generator -- https://realfavicongenerator.net/
 CSS Reset by Josh Comeau -- https://www.joshwcomeau.com/css/custom-css-reset/
 Google Webfonts Helper -- https://github.com/majodev/google-webfonts-helper
+https://gwfh.mranftl.com/fonts/geist?subsets=latin
 Hiding an element visually -- https://www.accessibility-developer-guide.com/examples/hiding-elements/visually/
 Codepen on CSS layers -- https://codepen.io/thecodercoder/pen/wBKaNeJ
 Codepen on CSS flow layout -- https://codepen.io/thecodercoder/pen/...
 Starter Files -- https://github.com/thecodercoder/brw-...
 CSS Tricks -- https://css-tricks.com
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
